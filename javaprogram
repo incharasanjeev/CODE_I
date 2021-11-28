@@ -1,0 +1,25 @@
+public class Player{
+        public static void main(String[] args) {
+          	System.out.println("Everyday health chart");
+          	
+
+        	System.out.println("\n1.wakeup          ->6.30am");
+        	System.out.println("2.yoga            ->7am-7.30am");
+
+        	System.out.println("3.Breakfast       ->9am");
+
+        	System.out.println("4.walk            ->10min");
+ 
+        	System.out.println("5.balanced lunch  ->12.30pm");
+ 
+        	System.out.println("6.walk            ->15min");
+
+        	System.out.println("7.evening walk    ->30min");
+
+        	System.out.println("8.dinner          ->8pm");
+
+        	System.out.println("9.walk            ->8:30pm");
+
+        	System.out.println("10.sleep          ->9:30pm");
+        	}
+        	}
